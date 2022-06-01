@@ -1,1 +1,1 @@
-Sitemap: https://thogiti.github.io/Programfy/sitemap.xml
+Sitemap: https://programfy.com/sitemap.xml
